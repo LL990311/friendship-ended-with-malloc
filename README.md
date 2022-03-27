@@ -1,2 +1,2 @@
 # friendship-ended-with-malloc
-COMP2017 P3
+Customized memory management tools
